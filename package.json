@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jwalsh23/gpost/issues"
   },
-  "homepage": "https://github.com/jwalsh23/gpost#readme"
+  "homepage": "https://github.com/jwalsh23/gpost#readme",
+  "devDependencies": {
+    "electron": "^3.0.6"
+  }
 }
