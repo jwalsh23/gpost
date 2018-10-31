@@ -1,0 +1,22 @@
+{
+  "name": "gpost",
+  "version": "1.0.0",
+  "description": "Electron Front End for GRPC calls",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwalsh23/gpost.git"
+  },
+  "author": "Jake Walsh, Connor Storer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwalsh23/gpost/issues"
+  },
+  "homepage": "https://github.com/jwalsh23/gpost#readme",
+  "devDependencies": {
+    "electron": "^3.0.6"
+  }
+}
