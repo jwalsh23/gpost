@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/jwalsh23/gpost#readme",
   "devDependencies": {
-    "electron": "^3.0.6",
+    "electron": "^3.0.8",
     "jest": "^23.6.0",
     "webpack": "^4.23.1"
   }
