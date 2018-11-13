@@ -1,7 +1,7 @@
 {
     "extends": "tslint-config-standard",
     "rules": {
-      "indent": [true, "spaces"],
-      "ter-indent": [true, 2]
+      "indent": [true, "tabs"],
+      // ter-indent": [true, 2]
     }
   }
