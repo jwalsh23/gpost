@@ -1,7 +1,8 @@
 {
-    "extends": "tslint-config-standard",
+    "extends": "tslint:latest",
     "rules": {
-      "indent": [true, "tabs"],
-      // ter-indent": [true, 2]
+      "indent": [true, "spaces", 4],
+      "no-implicit-dependencies": [true, "dev"],
+      "quotemark": [true, "single"]
     }
   }

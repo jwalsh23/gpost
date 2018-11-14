@@ -20,7 +20,7 @@ const commonConfig = {
       {
         test: /\.tsx?$/,
         loader: ['babel-loader','ts-loader']
-      }
+      },
     ]
   },
   resolve: {
