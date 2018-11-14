@@ -1,10 +1,7 @@
-import React from 'react'
-import ReactDOM from 'react-dom'
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './components/pure/App';
 
 ReactDOM.render(
-    <div>
-        <h1>Electron Application</h1>
-            <div>We are using node {process.versions.node},</div>
-            <div>Chrome {process.versions.chrome},</div>
-            <div>and Electron {process.versions.electron}.</div>
-    </div>, document.getElementsByTagName('body')[0])
+    <App />
+, document.getElementsByTagName('body')[0]);
